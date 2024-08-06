@@ -1,9 +1,9 @@
 import React from "react";
 
-class StatefulGreeting2 extends React.Component{
+class StatefulGreetingWithProps extends React.Component{
     render() {
         return <h1>Hello {this.props.name} {this.props.greeting}</h1>
     }
 }
 
-export default StatefulGreeting2;
+export default StatefulGreetingWithProps;

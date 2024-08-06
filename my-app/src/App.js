@@ -16,6 +16,7 @@ function App() {
       <FunctionalGreetingWithProps greeting="nice to meet you at " age="65" />
       <StatefulGreeting />
       <StatefulGreetingWithProps name="John" greeting=", from StatefulGreetingWithProps" />
+      <br></br>
     </div>
   );
 }

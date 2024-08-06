@@ -3,7 +3,7 @@ import FunctionalGreeting from './components/FunctionalGreeting';
 import FunctionalGreetingWithProps from './components/FunctionalGreetingWithProps';
 import StatefulGreeting from './components/StatefulGreeting';
 import StatefulGreetingWithProps from './components/StatefulGreetingWithProps';
-import StatefulGreeting2 from './components/StatefulGreetingWithProps';
+import StatefulGreetingWithProps from './components/StatefulGreetingWithProps';
 
 function App() {
   return (
